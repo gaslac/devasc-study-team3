@@ -1,2 +1,7 @@
 hola mundo
 que tal
+Revisión de código
+Documentación
+Gestión de proyectos
+Seguimiento de errores
+Solicitudes de características
