@@ -1,0 +1,3 @@
+Para permitir a los propietarios de proyectos administrar en escenarios tan dispares, GitHub introdujo el concepto de la "solicitud de extracción". Una solicitud de extracción es una manera de formalizar una solicitud de un colaborador para revisar cambios tales como código nuevo, ediciones en código existente, etc., en la rama del colaborador para su inclusión en la rama principal del proyecto u otras ramas seleccionadas. 
+El modismo de solicitud de extracción ahora se implementa 
+universalmente en los servicios de alojamiento de Git.
